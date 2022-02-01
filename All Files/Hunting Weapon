@@ -13,3 +13,5 @@ drive.mount("/content/drive/")
 df = pd.read_csv('/content/drive/MyDrive/news.csv')
 df.head(10)
 
+# Checking the null values, no of rows and columns and the data types
+df.info()
