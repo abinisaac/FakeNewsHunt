@@ -4,7 +4,7 @@
 <br>
 
 <center>
-<font size="18">  Daily&nbsp;<strong>2.5 quintillion data</strong>&nbsp;<em>(2 times more than our Milky Way Galaxy width!!)</em>&nbsp;is generated which simply means&nbsp;<strong>456K tweets, 46K image post on insta, 4 million youtube video watches&nbsp;</strong>etc. are done in just&nbsp;single minute. With around&nbsp;<strong>4 billion Internet users</strong>&nbsp;fake news is a major global concern. Detecting and handling fake news manually from this data ocean is really a cumbersome task and this is were machine learning comes into picture.</font>  
+<font size="18">  Daily&nbsp;<strong>2.5 quintillion data</strong>&nbsp;<em>(2 times more than our galaxy Milky Way's width!!)</em>&nbsp;is generated which simply means&nbsp;<strong>456K tweets, 46K image post on insta, 4 million youtube video watches&nbsp;</strong>etc. are done in just&nbsp;single minute. With around&nbsp;<strong>4 billion Internet users</strong>&nbsp;fake news is a major global concern. Detecting and handling fake news manually from this data ocean is really a cumbersome task and this is were machine learning comes into picture.</font>  
 </center>
 
 
