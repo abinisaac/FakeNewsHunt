@@ -12,6 +12,9 @@
   <li><b>Train Test ratio</b> - <i> 80:20 </i></li>
 <li><b>Stop Words removal & Vectorization</b> - <i>This is done by TfidfVectorizer. Words with more than 0.7 Document Frequency are removed along with the stop words.</i></li>
   <li><b>Model</b> - <i>PassiveAggressiveClassifier algorithm is used to create the ML model. max_iter (Maximum pass over the trainning data) is set to 50.</i></li>
-  <li><b>Performace</b> - <i>Model accuracy acheived is 92.82%<i></li></ul>
+  <li><b>Performace</b> - <i>Model accuracy achieved is 92.82%<i></li></ul>
+    <br>
+  <h4> Second Encounter - Very Soon!! </h4>
+      
 
 
